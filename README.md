@@ -1,1 +1,2 @@
-# advent_of_code_21
+# Advent of Code Solutions
+**Author** GPT3 and Per-Arne Andersen
